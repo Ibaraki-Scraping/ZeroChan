@@ -1,0 +1,14 @@
+{
+    "compilerOptions": {
+        "declaration": true,
+        "rootDir": "./src",
+        "outDir": "./lib",
+        "noEmitHelpers": false,
+        "target": "ESNext",
+        "moduleResolution": "node",
+        "module": "CommonJS"
+    },
+    "include": [
+        "./src/**/*"
+    ]
+}
